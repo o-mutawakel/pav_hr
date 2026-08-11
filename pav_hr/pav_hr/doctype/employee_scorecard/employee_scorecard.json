@@ -134,11 +134,9 @@
    "read_only": 1
   },
   {
-   "fetch_from": "employee.grade",
    "fieldname": "employee_grade",
-   "fieldtype": "Link",
+   "fieldtype": "Data",
    "label": "Employee Grade",
-   "options": "Employee Grade",
    "read_only": 1
   },
   {
